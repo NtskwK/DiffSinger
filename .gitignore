@@ -3,3 +3,9 @@
 __pycache__/
 *.sh
 local_tools/
+
+.conda
+
+data/processed/*
+data/binary/*
+data/raw/*
